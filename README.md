@@ -1,4 +1,4 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/Kim-Heeyeol/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kim-Heeyeol)](https://github.com/Kim-Heeyeol/github-readme-stats)
 
 <!--
 **Kim-Heeyeol/Kim-Heeyeol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
