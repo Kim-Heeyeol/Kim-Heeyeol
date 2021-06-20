@@ -1,12 +1,12 @@
-# Front End Engineer
+## Front End Engineer
 * Front-end engineer pursuing simplicity
 
-# Interest
+## Interest
 * Deeper understanding of JavaScript
 * Write code that is business-connected
 * I enjoy building knowledge to increase the resolution of the world
 
-# Else
+### Else
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kim-Heeyeol)](https://github.com/Kim-Heeyeol/github-readme-stats)
 
 <!--
