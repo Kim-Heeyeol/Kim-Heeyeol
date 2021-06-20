@@ -3,7 +3,7 @@
 
 # Interest
 * Deeper understanding of JavaScript
-* Connectivity to Business
+* Write code that is business-connected
 * I enjoy building knowledge to increase the resolution of the world
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kim-Heeyeol)](https://github.com/Kim-Heeyeol/github-readme-stats)
