@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 
 I am a frontend developer in Seoul 🇰🇷
 
-🗝 Solve the problem with simple code.
-🧑🏻‍💻 In the zone with typescript.
-💪🏻 Love weight traning & crossfit.
+🗝 Solve the problem with simple code.  
+🧑🏻‍💻 In the zone with typescript.  
+💪🏻 Love weight traning & crossfit.  
