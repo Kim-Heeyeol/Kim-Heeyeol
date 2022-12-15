@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a frontend developer in Seoul 🇰🇷. 
+I am a frontend developer in Seoul 🇰🇷
 
 🏭 [On stream Tech Factory.](https://bush-quarter-3e6.notion.site/Tech-Factory-74f5eefe8b88478aa845d9e8a0f90ed4)    
 🍞 [Steady to collect Devcrumbs.](https://github.com/herekim/breadcrumbs)   
