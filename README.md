@@ -14,7 +14,3 @@ Here are some ideas to get you started:
 -->
 
 I am a frontend developer in Seoul 🇰🇷
-
-🏭 [On stream Tech Factory.](https://bush-quarter-3e6.notion.site/Tech-Factory-74f5eefe8b88478aa845d9e8a0f90ed4)    
-🍞 [Steady to collect Devcrumbs.](https://github.com/herekim/breadcrumbs)   
-🧭 [Exploring a map of knowledge.](https://bush-quarter-3e6.notion.site/3ae96f1903734b518c39cecd54552176)     
